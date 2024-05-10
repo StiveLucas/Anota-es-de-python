@@ -1,5 +1,5 @@
 #Deixando Maiúsculo.
-variavel = variavel.upperr()
+#variavel = variavel.upperr()
 
 #Deixando Minúsculo.
-variavel = variavel.lower()
+#variavel = variavel.lower()
