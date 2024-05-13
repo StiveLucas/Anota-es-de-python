@@ -1,2 +1,2 @@
 # Anota-es-de-python
-Anotações e dicas de python
+ e dicas de pythonAnotações
