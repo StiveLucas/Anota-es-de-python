@@ -11,3 +11,16 @@ x = 1
 
 for x in range(3):
     print(f"{x}º nota: {notas}")
+
+
+'''
+
+comando para apresentar um por um.
+
+palavras = ["carro", "barco", "avião"]
+print(palavras)
+
+for x in palavras:
+    print(x)
+
+'''
